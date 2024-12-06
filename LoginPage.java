@@ -36,7 +36,7 @@ public class LoginPage {
         frame.add(passField);
 
         // Login button
-        JButton loginButton = new JButton("Login");
+        JButton loginButton = new JButton("Sign in");
         loginButton.setBounds(125, 110, 100, 25);
         frame.add(loginButton);
 
